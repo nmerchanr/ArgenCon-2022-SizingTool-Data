@@ -16,7 +16,7 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 
 ### Generación renovable calculada con datos meteorológicos de Puerto Carreño, Vichada:
 - Generación fotovoltaica de cada módulo del set $G$ calculada según los modelos [1], [2] ( $P^{PV_{gen}}_{g,t}$ ) : Archivo: **GEN_PV_PC.csv**
-- Generación eólica de por cada turbina del set $W$ calculada según el modelo [3] ( $$P_{w,t}^{WT_{gen}}$$ ) : Archivo: **GEN_WT_PC.csv**
+- Generación eólica de por cada turbina del set $W$ calculada según el modelo [3] ( $P_{w,t}^{WT_{gen}}$ ) : Archivo: **GEN_WT_PC.csv**
 
 
 ### Datos meteorológicos temporales en la isla de San Andrés:
@@ -26,7 +26,7 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 
 ### Generación renovable calculada con datos meteorológicos de la isla de San Andrés:
 - Generación fotovoltaica de cada módulo del set $G$ calculada según los modelos [1], [2] ( $P^{PV_{gen}}_{g,t}$ ) : Archivo: **GEN_PV_SA.csv**
-- Generación eólica de por cada turbina del set $W$ calculada según el modelo [3] ( $$P_{w,t}^{WT_{gen}}$$ ) : Archivo: **GEN_WT_SA.csv**
+- Generación eólica de por cada turbina del set $W$ calculada según el modelo [3] ( $P_{w,t}^{WT_{gen}}$ ) : Archivo: **GEN_WT_SA.csv**
 
 ### Datos temporales usados en ambos casos de estudio
 - Perfil de demanda de UCI de 175 $m^2$ en kW ( $L_t$ ): Archivo: **CaseData.csv**, Columna: **LOAD**
