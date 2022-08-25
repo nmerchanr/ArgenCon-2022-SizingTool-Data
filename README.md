@@ -3,10 +3,10 @@
 El actual repositorio contiene los parámetros en serie temporal utilizados para los casos de estudio del artículo titulado: "Herramienta para el dimensionamiento ́optimo de microrredes hıbridas PV/Baterıas/Viento/Diesel e inversores hıbridos" para la conferencia **ArgenCon 2022**. Los parámetros citados se pueden encontrar con la información dada a continuación:
 
 ### Sets
-- Tecnologías de módulos fotovoltaicos $G$ : [Sunergy-370W,Luxen-450W]
-- Tecnologías de baterías $B$ : [PylonTech-UP5000,NCL-50Ah]
-- Tecnologías de inversores híbridos $I$ : [InfiniSolar Plus 5kW,NCL-5kW]
-- Tecnologías de turbinas eólicas $I$ : [FK-3kW,FX-400,FX-1000]
+- Tecnologías de módulos fotovoltaicos $G$ : [Sunergy-370W, Luxen-450W]
+- Tecnologías de baterías $B$ : [PylonTech-UP5000, NCL-50Ah]
+- Tecnologías de inversores híbridos $I$ : [InfiniSolar Plus 5kW, NCL-5kW]
+- Tecnologías de turbinas eólicas $I$ : [FK-3kW, FX-400, FX-1000]
 
 
 ### Datos meteorológicos temporales en la ciudad de Puerto Carreño, Vichada:
@@ -39,5 +39,7 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 Referencias (También usadas en el paper)
 
 [1] D. A. A. Lozano, “Evaluación de la orientacion y el ángulo de inclinacion óptimo de una superficie plana para maximizar la captación de irradiación solar en cuenca-ecuador,” vol. 7, pp. 74–77, 2017.
+
 [2] D. L. King, W. E. Boyson, and J. A. Kratochvil, “Photovoltaic array performance model, SANDIA Report SAND2004-3535,” Sandia Report No. 2004-3535, vol. 8, no. December, pp. 1–19, 2004.
+
 [3] T. Ma and M. S. Javed, “Integrated sizing of hybrid PV-wind-battery system for remote island considering the saturation of each renewable energy resource,” Energy Conversion and Management, vol. 182, pp. 178–190, feb 2019.
