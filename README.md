@@ -36,7 +36,7 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 - Perfil de disponibilidad del generador diésel [1,0] ( $Av_{t}^{D}$ ): Archivo: **CaseData.csv**, Columna: **AV_DIESEL**
 
 
-Referencias (También usadas en el paper)
+## Referencias (También utilizadas en el paper)
 
 [1] D. A. A. Lozano, “Evaluación de la orientacion y el ángulo de inclinacion óptimo de una superficie plana para maximizar la captación de irradiación solar en cuenca-ecuador,” vol. 7, pp. 74–77, 2017.
 
