@@ -6,7 +6,7 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 - Tecnologías de módulos fotovoltaicos $G$ : [Sunergy-370W, Luxen-450W]
 - Tecnologías de baterías $B$ : [PylonTech-UP5000, NCL-50Ah]
 - Tecnologías de inversores híbridos $I$ : [InfiniSolar Plus 5kW, NCL-5kW]
-- Tecnologías de turbinas eólicas $I$ : [FK-3kW, FX-400, FX-1000]
+- Tecnologías de turbinas eólicas $W$ : [FK-3kW, FX-400, FX-1000]
 
 
 ### Datos meteorológicos temporales en la ciudad de Puerto Carreño, Vichada:
