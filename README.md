@@ -30,8 +30,8 @@ El actual repositorio contiene los parámetros en serie temporal utilizados para
 
 ### Datos temporales usados en ambos casos de estudio
 - Perfil de demanda de UCI de 175 $m^2$ en kW ( $L_t$ ): Archivo: **CaseData.csv**, Columna: **LOAD**
-- Perfil de precios de compra de la red en \$/kWh ( $C_{t}^{buy}$ ): Archivo: **CaseData.csv**, Columna: **C_BUY**
-- Perfil de precios de venta de la red en \$/kWh ( $C_{t}^{sell}$ ): Archivo: **CaseData.csv**, Columna: **C_SELL**
+- Perfil de precios de compra de la red en $\$/kWh$ ( $C_{t}^{buy}$ ): Archivo: **CaseData.csv**, Columna: **C_BUY**
+- Perfil de precios de venta de la red en $\$/kWh$ ( $C_{t}^{sell}$ ): Archivo: **CaseData.csv**, Columna: **C_SELL**
 - Perfil de disponibilidad de la red [1,0] ( $Av_{t}^{G}$ ): Archivo: **CaseData.csv**, Columna: **AV_GRID**
 - Perfil de disponibilidad del generador diésel [1,0] ( $Av_{t}^{D}$ ): Archivo: **CaseData.csv**, Columna: **AV_DIESEL**
 
